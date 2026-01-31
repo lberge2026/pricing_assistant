@@ -1,0 +1,1 @@
+This is a pricing assistant for my product "Berge Blocks." It calculates various metrics such as Discounted Price, Final Price with Tax, Profit Per Unit, Break-Even Units per Month, and determines if the product is profitable per unit using logic.
